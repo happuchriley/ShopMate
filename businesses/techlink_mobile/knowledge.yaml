@@ -1,0 +1,96 @@
+name: TechLink Mobile
+tagline: New & used smartphones, accessories, and fast repairs in Accra.
+
+catalog:
+  - name: iPhone 13 128GB
+    price_ghs: 4200
+    description: Clean UK used, battery health 87%+, Face ID working
+    in_stock: true
+  - name: iPhone 12 64GB
+    price_ghs: 3200
+    description: Grade A used, minor wear, fully tested
+    in_stock: true
+  - name: Samsung Galaxy A54 5G
+    price_ghs: 2800
+    description: Brand new sealed, 1-year warranty
+    in_stock: true
+  - name: Samsung Galaxy S21
+    price_ghs: 2500
+    description: Used, excellent condition, 256GB
+    in_stock: true
+  - name: Tecno Spark 20
+    price_ghs: 1450
+    description: Budget-friendly, dual SIM, 128GB
+    in_stock: true
+  - name: Infinix Note 30
+    price_ghs: 1600
+    description: Large display, fast charging
+    in_stock: true
+  - name: AirPods Pro (2nd gen)
+    price_ghs: 850
+    description: Original, with case and tips
+    in_stock: true
+  - name: Samsung 25W Fast Charger
+    price_ghs: 80
+    description: Original Samsung USB-C charger
+    in_stock: true
+  - name: Tempered Glass (Universal)
+    price_ghs: 30
+    description: Screen protector, free installation
+    in_stock: true
+  - name: Phone Case (Assorted)
+    price_ghs: 50
+    description: Silicone and leather cases for popular models
+    in_stock: true
+
+services:
+  - name: Screen Replacement
+    price_from_ghs: 150
+    description: iPhone and Samsung screens, same-day service for common models
+  - name: Battery Replacement
+    price_from_ghs: 120
+    description: Genuine-quality batteries, 30-min install
+  - name: Charging Port Repair
+    price_from_ghs: 80
+    description: Fix loose or damaged charging ports
+  - name: Water Damage Assessment
+    price_from_ghs: 50
+    description: Diagnostic and quote for water-damaged devices
+  - name: Software / Unlock Support
+    price_from_ghs: 60
+    description: iOS/Android updates, account recovery assistance
+  - name: Data Transfer
+    price_from_ghs: 40
+    description: Move contacts, photos, and apps to your new phone
+
+faq:
+  - q: Where are you located?
+    a: We are at Osu Oxford Street, Accra — near Danquah Circle. Landmark is the blue TechLink sign.
+  - q: Do you accept trade-ins?
+    a: Yes! Bring your old phone for a free valuation. Trade-in value applies toward your purchase.
+  - q: How long do repairs take?
+    a: Most screen and battery repairs are done same day (1–3 hours). Complex repairs may take 24–48 hours.
+  - q: Do you deliver?
+    a: Yes, delivery within Accra is GHS 30. Payment on delivery or Mobile Money upfront.
+  - q: Are your used phones original?
+    a: All our used devices are tested for authenticity. We check IMEI, battery, cameras, and sensors before sale.
+  - q: What payment methods do you accept?
+    a: Cash, MTN MoMo, Vodafone Cash, AirtelTigo Money, and bank transfer.
+  - q: Me pɛ iPhone — wo wɔ a?
+    a: Aane! Yɛwɔ iPhone 12, 13, ne foforɔ. Fa wo budget ma me na mɛkyerɛ wo options.
+  - q: Screenn no atwam — ɛyɛ sɛn?
+    a: Fa phone no bra. Screen repair fi GHS 150. Yɛtumi ayɛ no da no ara ma iPhone ne Samsung a ɛyɛ common.
+
+policies:
+  warranty: "6-month warranty on used phones; 12 months on new sealed devices."
+  returns: "7-day exchange policy for manufacturing defects with receipt."
+  payment: "Cash and all major Mobile Money networks accepted."
+
+hours:
+  monday: "08:00-19:00"
+  tuesday: "08:00-19:00"
+  wednesday: "08:00-19:00"
+  thursday: "08:00-19:00"
+  friday: "08:00-19:00"
+  saturday: "09:00-17:00"
+  sunday: "closed"

@@ -1,0 +1,22 @@
+# Railway — https://railway.app
+# Deploy: New Project → GitHub → happuchriley/ShopMate
+# See RAILWAY.md for Postgres + env vars
+
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "uvicorn app.main:app --host 0.0.0.0 --port $PORT --workers 1"
+healthcheckPath = "/health"
+healthcheckTimeout = 120
+restartPolicyType = "ON_FAILURE"
+
+[env]
+ENV = "production"
+PYTHONUNBUFFERED = "1"
+NIXPACKS_PYTHON_VERSION = "3.12"
+DEFAULT_TIMEZONE = "Africa/Accra"
+DEFAULT_BUSINESS_ID = "techlink_mobile"
+DIGEST_HOUR = "8"
+DIGEST_MINUTE = "0"
+OPENAI_MODEL = "gpt-4o-mini"

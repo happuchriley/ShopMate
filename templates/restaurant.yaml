@@ -1,0 +1,24 @@
+# ShopMate business template — Restaurant / Food
+name: "{{BUSINESS_NAME}}"
+tagline: "{{TAGLINE}}"
+timezone: Africa/Accra
+language_default: en
+languages:
+  - en
+  - twi
+owner_telegram_chat_id: ""
+owner_whatsapp_number: ""
+
+hours:
+  monday: { open: "10:00", close: "22:00" }
+  tuesday: { open: "10:00", close: "22:00" }
+  wednesday: { open: "10:00", close: "22:00" }
+  thursday: { open: "10:00", close: "22:00" }
+  friday: { open: "10:00", close: "23:00" }
+  saturday: { open: "10:00", close: "23:00" }
+  sunday: { open: "12:00", close: "21:00" }
+
+policies:
+  delivery: "Delivery available within 5km."
+  payment: "Cash, MoMo, and card on delivery."
+  allergens: "Ask staff about allergens before ordering."

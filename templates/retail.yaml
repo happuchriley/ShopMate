@@ -1,0 +1,24 @@
+# ShopMate business template — Retail / Phone Shop
+name: "{{BUSINESS_NAME}}"
+tagline: "{{TAGLINE}}"
+timezone: Africa/Accra
+language_default: en
+languages:
+  - en
+  - twi
+owner_telegram_chat_id: ""
+owner_whatsapp_number: ""
+
+hours:
+  monday: { open: "08:00", close: "18:00" }
+  tuesday: { open: "08:00", close: "18:00" }
+  wednesday: { open: "08:00", close: "18:00" }
+  thursday: { open: "08:00", close: "18:00" }
+  friday: { open: "08:00", close: "18:00" }
+  saturday: { open: "09:00", close: "16:00" }
+  sunday: { closed: true }
+
+policies:
+  warranty: "Standard shop warranty applies."
+  returns: "Exchange within 7 days with receipt."
+  payment: "Cash and Mobile Money accepted."

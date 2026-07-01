@@ -1,0 +1,44 @@
+name: TechLink Mobile
+tagline: Your trusted phone shop in Accra — new & used phones, accessories, and repairs.
+timezone: Africa/Accra
+language_default: en
+languages:
+  - en
+  - twi
+owner_telegram_chat_id: ""
+owner_whatsapp_number: "+233XXXXXXXXX"
+
+hours:
+  monday:
+    open: "08:00"
+    close: "19:00"
+  tuesday:
+    open: "08:00"
+    close: "19:00"
+  wednesday:
+    open: "08:00"
+    close: "19:00"
+  thursday:
+    open: "08:00"
+    close: "19:00"
+  friday:
+    open: "08:00"
+    close: "19:00"
+  saturday:
+    open: "09:00"
+    close: "17:00"
+  sunday:
+    closed: true
+
+policies:
+  warranty: "6-month shop warranty on used phones; 12 months on new devices."
+  returns: "7-day exchange on defective devices with receipt."
+  payment: "Cash, Mobile Money (MTN/Vodafone/AirtelTigo), bank transfer."
+
+welcome_message_en: |
+  Welcome to TechLink Mobile! Ask about phones, prices, or send a photo.
+  Reply HUMAN to speak with our team.
+
+welcome_message_twi: |
+  Akwaaba TechLink Mobile! Bisa wo phone, bo, anaa fa mfonini brɛ.
+  Fa HUMAN kyerɛ sɛ wopɛ sɛ wokasa ne yɛn.
